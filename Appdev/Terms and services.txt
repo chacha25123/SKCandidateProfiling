@@ -1,0 +1,55 @@
+1. Scope of Services
+
+Clearly define the purpose of the profiling system, such as:
+Collecting and managing information about SK members
+Tracking SK activities and accomplishments
+Facilitating communication and collaboration within the SK
+Providing data for reporting and analysis
+Specify the types of data that will be collected, including:
+Personal information (name, age, contact details)
+Membership details (SK position, term)
+Activity records (attendance, participation)
+Accomplishment reports (projects, initiatives)
+Outline the services that the system will provide, such as:
+User accounts and login access
+Data entry and management tools
+Reporting and analytics features
+Communication channels (e.g., messaging, forums)
+2. User Obligations
+
+Require users to provide accurate and up-to-date information.
+Prohibit unauthorized access or use of the system.
+Enforce responsible use of the system, including adherence to ethical guidelines.
+Protect the confidentiality of personal data and avoid sharing it with unauthorized parties.
+3. Data Privacy and Security
+
+Implement robust security measures to protect user data from unauthorized access, disclosure, alteration, or destruction.
+Comply with applicable data privacy laws and regulations (e.g., GDPR, Data Privacy Act of 2012).
+Obtain informed consent from users before collecting and processing their personal data.
+Provide transparency regarding data collection and usage practices.
+Maintain data integrity and accuracy.
+4. Intellectual Property
+
+Clarify ownership of the system and its components.
+Protect intellectual property rights, such as copyrights and trademarks.
+Prohibit unauthorized copying, distribution, or modification of the system.
+5. Disclaimer of Warranties
+
+Disclaim any warranties regarding the system's performance, accuracy, or reliability.
+Indicate that the system is provided "as is" without any guarantees.
+6. Limitation of Liability
+
+Limit the liability of the system provider for any damages or losses arising from the use or misuse of the system.
+Exclude liability for indirect, incidental, or consequential damages.
+7. Governing Law and Jurisdiction
+
+Specify the applicable law that governs the terms and services.
+Determine the jurisdiction for resolving any disputes arising from the use of the system.
+8. Amendments
+
+Reserve the right to modify or update the terms and services at any time.
+Notify users of any changes and provide an opportunity to review and accept the revised terms.
+9. Contact Information
+
+Provide contact details for support and inquiries regarding the system.
+Remember to consult with legal professionals to ensure that your terms and services are comprehensive, compliant, and enforceable.

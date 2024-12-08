@@ -1,0 +1,39 @@
+<?php
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms and Conditions</title>
+</head>
+<body>
+    <h1>Terms and Conditions</h1>
+
+    <h2>1. Scope of Services</h2>
+    <p>Clearly define the purpose of the profiling system, such as:</p>
+    <ul>
+        <li>Collecting and managing information about SK members</li>
+        <li>Tracking SK activities and accomplishments</li>
+        <li>Facilitating communication and collaboration within the SK</li>
+        <li>Providing data for reporting and analysis</li>
+    </ul>
+    <p>Specify the types of data that will be collected, including:</p>
+    <ul>
+        <li>Personal information (name, age, contact details)</li>
+        <li>Membership details (SK position, term)</li>
+        <li>Activity records (attendance, participation)</li>
+        <li>Accomplishment reports (projects, initiatives)</li>
+    </ul>
+    <p>Outline the services that the system will provide, such as:</p>
+    <ul>
+        <li>User accounts and login access</li>
+        <li>Data entry and management tools</li>
+        <li>Reporting and analytics features</li>
+        <li>Communication channels (e.g., messaging, forums)</li>
+    </ul>
+
+    <h2>9. Contact Information</h2>
+    <p>Provide contact details for support and inquiries regarding the system.</p>
+
+    <p>Remember to consult with legal professionals to ensure that your terms and services are comprehensive, compliant, and enforceable.</p>
+</body>
+</html>
+?>
